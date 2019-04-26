@@ -12,7 +12,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
     2. "From" input with surviv.io current file: "http://surviv.io/js/app.04c96569.js"
     3. "To" input" with our hack JS File URL: https://rawcdn.githack.com/u1qqlv/SURVIV.IO-PRO-HACK/5af55c91c5c20c59ebe672261778a0ab2dfd9651/app.04c96569.js"
     4. Press Switch ON extension button 
-    5. ![alt text](http://i65.tinypic.com/156b6t2.png "Extension settings")
+    ![alt text](http://i65.tinypic.com/156b6t2.png "Extension settings")
 4. Go to surviv.io website and press CTRL + F5 to force refresh
 5. Have fun!
 
