@@ -19,7 +19,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 
 ### :computer: Update
 * Go to surviv.io website and look at the bottom of the source code: press CTRL + U and look for app file URL, example: app.xxyyzz.js
-* This file name will be used to insert into the extension: like this "http://surviv.io/js/app.xxyyzz.js"
+* This file name will be used to insert into the extension: "http://surviv.io/js/app.xxyyzz.js"
 * Now get our github file URL, press copy and put it inside https://raw.githack.com/ to get correct file URL from this hack when you need to replace it ( example: "https://github.com/u1qqlv/SURVIV.IO-PRO-HACK/blob/master/app.04c96569.js" )
 * Go to Resource Override settings page and fill the form:
 "From" - > latest surviv.io file URL
