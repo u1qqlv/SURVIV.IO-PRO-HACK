@@ -31,7 +31,7 @@ Video link demo - https://www.youtube.com/watch?v=oOJxmHsRqSU
 * Color explosive barrels in red
 * Bigger and more vibrant bullets
 * Show enemy name
-* Show enemy LVL + GUN TYPE
+* Show enemy LVL (LVL means "Level" - from 0 to 6 (Armor Level + Helmet Level)) + GUN TYPE
 
 
 ### :information_source: Instructions
