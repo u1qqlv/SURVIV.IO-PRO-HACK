@@ -32,6 +32,7 @@ Video link demo - https://www.youtube.com/watch?v=sGd636jL7yo
 * Bigger and more vibrant bullets
 * Show enemy name
 * Show enemy LVL (LVL means "Level" - from 0 to 6 (Armor Level + Helmet Level)) + GUN TYPE
+* Different Smoke (Smaller)
 
 
 ### :information_source: Instructions
