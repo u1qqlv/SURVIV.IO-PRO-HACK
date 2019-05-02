@@ -3,7 +3,7 @@
 This is a custom Surviv.io cheat made from scratch to improve your game score.
 
 ### :video_camera: Video Demo
-Video link demo - https://www.youtube.com/watch?v=oOJxmHsRqSU
+Video link demo - https://www.youtube.com/watch?v=sGd636jL7yo
 
 ## :information_desk_person: Installation
 
