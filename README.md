@@ -14,7 +14,7 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
     2. "From" input with surviv.io current file: "*surviv.io/js/app.dfe89663.js" (last game file URL)
     3. "To" input with our hack JS File URL: "https://rawcdn.githack.com/u1qqlv/SURVIV.IO-PRO-HACK/3d0dd2e2510e38f039ea6d1a3936bebc51cd074a/app.263d0c37.js"
     4. Press Switch ON extension button 
-    ![alt text](http://i65.tinypic.com/156b6t2.png "Extension settings")
+    ![alt text](http://i63.tinypic.com/28a0ufk.png "Extension settings")
 4. Go to surviv.io website and press CTRL + F5 to force refresh
 5. Have fun!
 
