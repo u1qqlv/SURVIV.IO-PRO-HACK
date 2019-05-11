@@ -18,6 +18,13 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
 4. Go to surviv.io website and press CTRL + F5 to force refresh
 5. Have fun!
 
+### :information_source: Instructions
+
+- No menu / You can not change settings
+- Zoom radius regulation by Left shift + Mouse wheel
+- Emotes are available right click
+- The auto aim will aim for closest enemy
+
 ### :gift: Features
 
 * New Default Cursor
@@ -34,19 +41,10 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
 * Different Smoke (Smaller)
 * Increase size of specific guns and consumables
 
-
-### :information_source: Instructions
-
-- No menu / You can not change settings
-- Zoom radius regulation by Left shift + Mouse wheel
-- Emotes are available right click
-- The auto aim will aim for closest enemy
-
-
 ## Warning!
 All actions you take at your own risk. The author is not responsible for the consequences of your actions.
 
 Hippity hoppity it's your own responsibility!
 
-## :video_game: Discord / Contact
+## :video_game: Discord / Contact / Teaming
 https://discord.gg/cJgan4
