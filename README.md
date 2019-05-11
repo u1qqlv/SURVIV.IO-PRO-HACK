@@ -18,7 +18,6 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
 4. Go to surviv.io website and press CTRL + F5 to force refresh
 5. Have fun!
 
-
 ### :gift: Features
 
 * New Default Cursor
@@ -48,3 +47,6 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
 All actions you take at your own risk. The author is not responsible for the consequences of your actions.
 
 Hippity hoppity it's your own responsibility!
+
+## :video_game: Discord / Contact
+https://discord.gg/cJgan4
