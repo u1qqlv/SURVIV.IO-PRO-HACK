@@ -10,9 +10,9 @@ Video link demo - https://www.youtube.com/watch?v=sGd636jL7yo
 1. Install "Resource Override" extension for Chrome Browser (search in Google!)
 2. Go to extension page (click extension button)
 3. Add new rule for the hack (Add New -> URL to URL)
-    1. Fill "Tab URL:" input with "http://surviv.io/" website
-    2. "From" input with surviv.io current file: "http://surviv.io/js/app.a63768a7.js" (last game file URL)
-    3. "To" input with our hack JS File URL: "https://rawcdn.githack.com/u1qqlv/SURVIV.IO-PRO-HACK/27cb6031ec6ad4a7bc7dd2545176354b822f24eb/app.a63768a7.js"
+    1. Fill "Tab URL:" input with "*surviv.io/" website (IMPORTANT! use * instead of "http" for https support also)
+    2. "From" input with surviv.io current file: "*surviv.io/js/app.263d0c37.js" (last game file URL)
+    3. "To" input with our hack JS File URL: "https://rawcdn.githack.com/u1qqlv/SURVIV.IO-PRO-HACK/fd165894369c81f7d48e1e5f10923ed2f49eb6c7/app.263d0c37.js"
     4. Press Switch ON extension button 
     ![alt text](http://i65.tinypic.com/156b6t2.png "Extension settings")
 4. Go to surviv.io website and press CTRL + F5 to force refresh
@@ -33,6 +33,7 @@ Video link demo - https://www.youtube.com/watch?v=sGd636jL7yo
 * Show enemy name
 * Show enemy LVL (LVL means "Level" - from 0 to 6 (Armor Level + Helmet Level)) + GUN TYPE
 * Different Smoke (Smaller)
+* Increase size of specific guns and consumables
 
 
 ### :information_source: Instructions
