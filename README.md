@@ -47,4 +47,4 @@ All actions you take at your own risk. The author is not responsible for the con
 Hippity hoppity it's your own responsibility!
 
 ## :video_game: Discord / Contact / Teaming
-https://discord.gg/cJgan4
+https://discord.gg/Fc6ddGX
