@@ -48,3 +48,5 @@ Hippity hoppity it's your own responsibility!
 
 ## :video_game: Discord / Contact / Teaming
 https://discord.gg/Fc6ddGX
+
+NOTE: Use new account for this server if you have joined surviv.io discord official server, I heard they ban people on their server.
