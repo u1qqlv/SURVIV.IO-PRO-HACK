@@ -10,7 +10,7 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
 1. Install "Resource Override" extension for Chrome Browser (search in Google!)
 2. Go to extension page (click extension button)
 3. Add new rule for the hack (Add New -> URL to URL)
-    1. Fill "Tab URL:" input with "\*surviv.io\*" website (IMPORTANT! add \* before URL)
+    1. Fill "Tab URL:" input with "\*surviv.io\*" website (IMPORTANT! add \* before and after surviv.io)
     2. "From" input with surviv.io current file: "\*surviv.io/js/app.0e9409cf.js" (last game file URL)  (IMPORTANT! add * before URL)
     3. "To" input with our hack JS File URL: "https://rawcdn.githack.com/u1qqlv/SURVIV.IO-PRO-HACK/3d0dd2e2510e38f039ea6d1a3936bebc51cd074a/app.263d0c37.js"
     4. Press Switch ON extension button 
