@@ -34,12 +34,13 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
 * Custom zooming control with scroll wheel
 * Transparent buildings, ceilings
 * Displays enemy lines
-* Color explosive barrels in red
 * Bigger and more vibrant bullets
 * Show enemy name
 * Show enemy LVL (LVL means "Level" - from 0 to 6 (Armor Level + Helmet Level)) + GUN TYPE
 * Different Smoke (Smaller)
 * Increase size of specific guns and consumables
+* Recolor hidden crates in green: barrel crate, stone crate and tree crate
+* Make frags and mirvs bigger and recolor in red
 
 ## Warning!
 All actions you take at your own risk. The author is not responsible for the consequences of your actions.
