@@ -14,7 +14,7 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
     2. "From" input with surviv.io current file: "\*surviv.io/js/app.*.js" (IMPORTANT! add \* before URL (maybe this is the last time we need to change URL LOL))
     3. "To" input with our hack JS File URL: "https://rawcdn.githack.com/u1qqlv/SURVIV.IO-PRO-HACK/07fa9e5586d5bb99497100380a86fa0b798fc770/app.d0bfe7b9.js"
     4. Press Switch ON extension button 
-    ![alt text](http://i63.tinypic.com/28a0ufk.png "Extension settings")
+    ![alt text](http://i68.tinypic.com/5l4fp3.png "Extension settings")
 4. Go to surviv.io website and press CTRL + F5 to force refresh
 5. Have fun!
 
