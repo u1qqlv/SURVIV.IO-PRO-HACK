@@ -18,6 +18,10 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
 4. Go to surviv.io website and press CTRL + F5 to force refresh
 5. Have fun!
 
+## :angry: Hack not working?!
+Be sure the links to be the same as above! (look carrefully if the links are the same!)
+The cheat is updating regulary so you need to change values too...
+
 ### :information_source: Instructions
 
 - No menu / You can not change settings
