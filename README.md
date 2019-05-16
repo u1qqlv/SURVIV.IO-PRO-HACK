@@ -20,7 +20,10 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
 
 ## :angry: Hack not working?!
 Be sure the links to be the same as above! (look carrefully if the links are the same!)
+
 The cheat is updating regulary so you need to change values too...
+
+If the values are the same and everything is correct then maybe the game was updated so I need time to fix the cheat, you can create a new issue here or contact me on discord and my channel: see at the bottom the link to the forum...
 
 ### :information_source: Instructions
 
