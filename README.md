@@ -19,7 +19,7 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
 5. Have fun!
 
 ## :angry: Hack not working?!
-Be sure the links to be the same as above! (look carrefully if the links are the same!)
+Be sure the links to be the same as above! (look carefully if the links are the same!)
 
 The cheat is updating regulary so you need to change values too...
 
