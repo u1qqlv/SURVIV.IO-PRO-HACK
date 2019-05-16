@@ -21,7 +21,7 @@ Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
 ## :angry: Hack not working?!
 Be sure the links to be the same as above! (look carefully if the links are the same!)
 
-The cheat is updating regulary so you need to change values too...
+The cheat is updating regularly so you need to change values too...
 
 If the values are the same and everything is correct then maybe the game was updated so I need time to fix the cheat, you can create a new issue here or contact me on discord and my channel: https://discord.gg/Fc6ddGX
 
