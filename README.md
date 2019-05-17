@@ -48,7 +48,7 @@ If the values are the same and everything is correct then maybe the game was upd
 * Recolor hidden crates in green: barrel crate, stone crate and tree crate
 * Make frags and mirvs bigger and recolor in red
 
-## Warning!
+## :warning: Warning!
 All actions you take at your own risk. The author is not responsible for the consequences of your actions.
 
 Hippity hoppity it's your own responsibility!
