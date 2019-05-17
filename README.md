@@ -43,7 +43,7 @@ If the values are the same and everything is correct then maybe the game was upd
 * Displays enemy lines
 * Bigger and more vibrant bullets
 * Show enemy name
-* Show enemy LVL (LVL means "Level" - from 0 to 6 (Armor Level + Helmet Level)) + GUN TYPE
+* Show enemy LVL (LVL means "Level" - from 0 to 7 (Armor Level + Helmet Level)) + GUN TYPE
 * Increase size of specific guns and consumables
 * Recolor hidden crates in green: barrel crate, stone crate and tree crate
 * Make frags and mirvs bigger and recolor in red
