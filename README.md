@@ -5,7 +5,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 ### :video_camera: Video Demo
 Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
 
-## :information_desk_person: Installation (Injection)
+## :wrench: Installation (Injection)
 
 1. Install "Resource Override" extension for Chrome Browser (search in Google!)
 2. Go to extension page (click extension button)
