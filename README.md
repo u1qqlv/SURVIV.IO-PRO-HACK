@@ -46,7 +46,7 @@ And don't forget to press ctrl + f5 when going to surviv.io website
 * Bigger and more vibrant bullets
 * Show enemy name
 * Show enemy LVL (LVL means "Level" - from 0 to 7 (Armor Level + Helmet Level)) + GUN TYPE
-* Increase size of specific guns and consumables
+* Increase size of specific loot items: guns, scopes and equipment
 * Recolor hidden crates in green: barrel crate, stone crate and tree crate
 * Make frags and mirvs bigger and recolor in red
 
