@@ -25,6 +25,8 @@ The cheat is updating regularly so you need to change values too...
 
 If the values are the same and everything is correct then maybe the game was updated so I need time to fix the cheat, you can create a new issue here or contact me on discord and my channel: https://discord.gg/Fc6ddGX
 
+And don't forget to press ctrl + f5 when going to surviv.io website
+
 ### :information_source: Instructions
 
 - No menu / You can not change settings
