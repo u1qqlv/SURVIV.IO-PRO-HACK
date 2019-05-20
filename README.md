@@ -49,6 +49,8 @@ And don't forget to press ctrl + f5 when going to surviv.io website
 * Increase size of specific loot items: guns, scopes and equipment
 * Recolor hidden crates in green: barrel crate, stone crate and tree crate
 * Make frags and mirvs bigger and recolor in red
+* More detailed minimap
+* Keep kill feed forever
 
 ## :warning: Warning!
 All actions you take at your own risk. The author is not responsible for the consequences of your actions.
