@@ -57,6 +57,7 @@ You can get the clean code - check "app.50d15b72_clean_code.js" file and you can
 * Modify hack settings
 * Add additional features
 * Fix bugs and do code improvement or optimisation
+
 (Only if you know js programming language)
 
 ## :warning: Warning!
