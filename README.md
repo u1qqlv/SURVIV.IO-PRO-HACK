@@ -52,6 +52,13 @@ And don't forget to press ctrl + f5 when going to surviv.io website
 * More detailed minimap
 * Keep kill feed forever
 
+### :ice_cream: Clean Code file?
+You can get the clean code - check "app.50d15b72_clean_code.js" file and you can use this file to:
+* Modify hack settings
+* Add additional features
+* Fix bugs and do code improvement or optimisation
+(Only if you know js programming language)
+
 ## :warning: Warning!
 All actions you take at your own risk. The author is not responsible for the consequences of your actions.
 
