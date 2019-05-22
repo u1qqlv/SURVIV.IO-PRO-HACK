@@ -2,8 +2,10 @@
 # Welcome to SURVIV.IO PRO HACK!
 This is a custom Surviv.io cheat made from scratch to improve your game score.
 
-### :video_camera: Video Demo
+### :video_camera: Video Demos
 Video link demo - https://www.youtube.com/watch?v=5LdXAcPAcBY
+
+Fan Video - https://www.youtube.com/watch?v=5IYZ6akAWhM
 
 ## :wrench: Installation (Injection)
 
