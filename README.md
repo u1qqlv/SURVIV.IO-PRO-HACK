@@ -1,6 +1,9 @@
 ![alt text](http://i67.tinypic.com/znx0fl.png "Survivio Banner")
 # Welcome to SURVIV.IO PRO HACK!
+Are you looking for surviv.io hacks? I can help you!
+
 This is a custom Surviv.io cheat made from scratch to improve your game score.
+
 
 ### :video_camera: Video Demos
 Fan Video #1 - https://www.youtube.com/watch?v=5IYZ6akAWhM
@@ -53,6 +56,8 @@ And don't forget to press ctrl + f5 when going to surviv.io website
 * Make frags and mirvs bigger and recolor in red
 * More detailed minimap
 * Keep kill feed forever
+* Recolor barrels in red
+* Make bushes and trees transparent
 
 ### :ice_cream: Clean Code file
 You can get the clean code - check "app.50d15b72_clean_code.js" file and you can use this file to:
