@@ -23,6 +23,12 @@ Fan Video #2 - https://www.youtube.com/watch?v=PyaueRZORiA
 4. Go to surviv.io website and press CTRL + F5 to force refresh
 5. Have fun!
 
+## :bulb: Installation instruction video (Injection)
+
+Need a video instruction? Here you go! 
+
+https://www.youtube.com/watch?v=VqnDO610Jsc
+
 ## :angry: Hack not working?!
 Be sure the links to be the same as above! (look carefully if the links are the same!)
 
