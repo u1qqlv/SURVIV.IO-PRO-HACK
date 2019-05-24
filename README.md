@@ -10,7 +10,7 @@ Fan Video #1 - https://www.youtube.com/watch?v=5IYZ6akAWhM
 
 Fan Video #2 - https://www.youtube.com/watch?v=PyaueRZORiA
 
-## :wrench: Installation (Injection)
+## :wrench: Installation instruction (Injection)
 
 1. Install "Resource Override" extension for Chrome Browser (search in Google!)
 2. Go to extension page (click extension button)
@@ -32,7 +32,7 @@ If the values are the same and everything is correct then maybe the game was upd
 
 And don't forget to press ctrl + f5 when going to surviv.io website
 
-### :information_source: Instructions
+### :information_source: Using hack instruction
 
 - No menu / You can not change settings
 - Zoom radius regulation by Left shift + Mouse wheel
