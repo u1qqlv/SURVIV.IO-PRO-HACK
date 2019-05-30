@@ -1,0 +1,58 @@
+{
+	"name": "SurvivIoAim",
+	"version": "1.0.41",
+	"description": "survivIoAim chrome extension",
+	"homepage_url": "https://github.com/w3x731/survivIoAim/",
+	"manifest_version": 2,
+	"permissions": [
+		"tabs",
+		"storage",
+		"*://*/*",
+		"declarativeContent",
+		"webRequest",
+		"webRequestBlocking"
+	],
+
+	"externally_connectable": {
+  		"matches": [
+  			"*://*.surviv.io/",
+  			"*://*.surviv2.io/",
+  			"*://*.2dbattleroyale.com/",
+  			"*://*.2dbattleroyale.org/"
+  		]
+	},
+
+	"content_security_policy":  "script-src 'self' 'unsafe-eval'; object-src 'self'",
+
+	"background": {
+		"scripts": [
+			"init.js",
+			"autoAim.js",
+			"autoHeal.js",
+			"autoLoot.js",
+			"autoOpeningDoors.js",
+			"bigMapManager.js",
+			"gernadeTimer.js",
+			"laserPointer.js",
+			"zoomRadiusManager.js",
+			"smokeAlphaManager.js",
+			"menu.js",
+			"background.js"
+		],
+		"persistent": true
+	},
+	"page_action": {
+		"default_icon": {
+			"16": "images/goal16.png",
+			"32": "images/goal32.png",
+			"48": "images/goal48.png",
+			"128": "images/goal128.png"
+		}
+	},
+	"icons": {
+		"16": "images/goal16.png",
+		"32": "images/goal32.png",
+		"48": "images/goal48.png",
+		"128": "images/goal128.png"
+	}
+}

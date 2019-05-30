@@ -1,0 +1,38 @@
+{
+	"name": "SurvivIoAim",
+	"version": "1.0",
+	"description": "survivIoAim chrome extension with autoupdate",
+	"homepage_url": "https://github.com/w3x731/survivIoAim/",
+	"manifest_version": 2,
+	"permissions": [
+		"tabs",
+		"storage",
+		"*://*/*",
+		"declarativeContent",
+		"webRequest",
+		"webRequestBlocking"
+	],
+
+	"content_security_policy":  "script-src 'self' 'unsafe-eval'; object-src 'self'",
+
+	"background": {
+		"scripts": [
+			"background.js"
+		],
+		"persistent": true
+	},
+	"page_action": {
+		"default_icon": {
+			"16": "images/goal16.png",
+			"32": "images/goal32.png",
+			"48": "images/goal48.png",
+			"128": "images/goal128.png"
+		}
+	},
+	"icons": {
+		"16": "images/goal16.png",
+		"32": "images/goal32.png",
+		"48": "images/goal48.png",
+		"128": "images/goal128.png"
+	}
+}

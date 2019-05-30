@@ -1,0 +1,54 @@
+{
+  "autoAim": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/autoAim.js",
+    "priority": 1
+  },
+  "autoLoot": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/autoLoot.js",
+    "priority": 1
+  },
+  "autoHeal": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/autoHeal.js",
+    "priority": 1
+  },
+  "autoOpeningDoors": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/autoOpeningDoors.js",
+    "priority": 1
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/background.js",
+    "priority": 0
+  },
+  "bigMapManager": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/bigMapManager.js",
+    "priority": 1
+  },
+  "gernadeTimer": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/gernadeTimer.js",
+    "priority": 1
+  },
+  "init": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/init.js",
+    "priority": 1
+  },
+  "gernadeTimer": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/gernadeTimer.js",
+    "priority": 1
+  },
+  "manifest": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/manifest.json",
+    "priority": -1
+  },
+  "menu": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/menu.js",
+    "priority": 1
+  },
+  "smokeAlphaManager": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/smokeAlphaManager.js",
+    "priority": 1
+  },
+  "zoomRadiusManager": {
+    "url": "https://raw.githubusercontent.com/w3x731/survivIoAim/master/survivIoAimChromeExtension/zoomRadiusManager.js",
+    "priority": 1
+  }
+}
