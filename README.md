@@ -38,6 +38,10 @@ If the values are the same and everything is correct then maybe the game was upd
 
 And don't forget to press ctrl + f5 when going to surviv.io website
 
+## :rage: Hack Freezing?!
+Surviv.io has an anti-cheat system that sometimes makes the game freeze (stop), so I don't have any solutions right now becuase I don't have time to investigate this and fix it BUT you may use an alternative Hack, check link below:
+https://github.com/IceHacks/SurvivCheatInjector
+
 ### :information_source: Using hack instruction
 
 - No menu / You can not change settings
