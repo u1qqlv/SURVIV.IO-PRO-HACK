@@ -4,7 +4,7 @@
 
 Guys go check other hack: https://github.com/IceHacks/SurvivCheatInjector
 
-Now I have no time to updat my hack, even if I will update it may freeze, so sorry fot that...
+Now I have no time to update my hack, even if I will update it may freeze, so sorry fot that...
 
 
 
