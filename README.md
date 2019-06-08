@@ -1,4 +1,14 @@
 ![alt text](http://i67.tinypic.com/znx0fl.png "Survivio Banner")
+
+# UPDATE: 
+
+Guys go check other hack: https://github.com/IceHacks/SurvivCheatInjector
+
+Now I have no time to updat my hack, even if I will update it may freeze, so sorry fot that...
+
+
+
+
 # Welcome to SURVIV.IO PRO HACK!
 Are you looking for surviv.io hacks? I can help you!
 
