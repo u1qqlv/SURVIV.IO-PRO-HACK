@@ -19,7 +19,8 @@ OR
 
 drag the folder into the chrome extension page.
 
-7. Go to surviv.io page
+7. Activate the extension
+8. Go to surviv.io page
 
 
 
