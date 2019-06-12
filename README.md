@@ -6,6 +6,20 @@ Guys go check other hack: https://github.com/IceHacks/SurvivCheatInjector
 
 Now I have no time to update my hack, even if I will update it may freeze, so sorry fot that...
 
+## :wrench: Installation instruction FOR ICE HACKS only
+
+1. Go to build folder
+2. Download latest zip file, example: 2019-JUN-11_20-0.zip
+3. Extract the zip file in a folder
+4. Go to Chrome Extension page: chrome://extensions/
+5. Enable "Developer Mode" -> right top toogle on the page
+6. Click "Load Unpacked" and select extension folder, example: 2019-JUN-11_20-0
+
+OR
+
+drag the folder into the chrome extension page.
+
+7. Go to surviv.io page
 
 
 
