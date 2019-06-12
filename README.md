@@ -23,7 +23,7 @@ drag the folder into the chrome extension page.
 
 
 
-# Welcome to SURVIV.IO PRO HACK!
+# Welcome to SURVIV.IO PRO HACK! (discontinued)
 Are you looking for surviv.io hacks? I can help you!
 
 This is a custom Surviv.io cheat made from scratch to improve your game score.
