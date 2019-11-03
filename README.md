@@ -79,7 +79,7 @@ You can get the clean code - check "app.50d15b72_clean_code.js" file and you can
 ## History:
 Hack was freezing because of surviv.io DEVS with their inti-cheat system
 
-I abandoned and not I try to revive the hack.
+I abandoned and now I try to revive the hack.
 
 ## Other Hack: 
 Guys go check other hack: https://github.com/IceHacks/SurvivCheatInjector
