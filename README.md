@@ -1,4 +1,4 @@
-![alt text](http://i67.tinypic.com/znx0fl.png "Survivio Banner")
+![alt text](https://raw.githack.com/u1qqlv/SURVIV.IO-PRO-HACK/master/surviv-pro-reloaded.png "Survivio Banner")
 
 # UPDATE: 
 
