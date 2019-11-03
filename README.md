@@ -66,9 +66,7 @@ The cheat is updating regularly so you need to change values too...
 And don't forget to press ctrl + f5 when going to surviv.io website
 
 ## :rage: Hack Freezing?!
-Surviv.io has an anti-cheat system that sometimes makes the game freeze (stop), so I don't have any solutions right now because I don't have time to investigate this and fix it BUT you may use an alternative Hack, check link below:
-https://github.com/IceHacks/SurvivCheatInjector
-
+Surviv.io has an anti-cheat system that sometimes makes the game freeze (stop), so I need time to investigate this and fix.
 
 ## :ice_cream: Clean Code file
 You can get the clean code - check "app.50d15b72_clean_code.js" file and you can use this file to:
