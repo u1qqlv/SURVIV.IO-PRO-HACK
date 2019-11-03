@@ -5,7 +5,9 @@ Are you looking for surviv.io hacks? I can help you!
 
 This is a custom Surviv.io cheat made from scratch to improve your game score.
 
-> Note: Hack in development, limited features, no auto AIM at this moment
+## Note: Hack in development!
+## Note: No auto AIM at this moment!
+## Note: This is not a Chrome Extension - read installation instruction!
 
 ## :gift: Features
 
