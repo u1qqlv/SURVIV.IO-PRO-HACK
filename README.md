@@ -7,7 +7,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 
 > Note: Hack in development, limited features, no auto AIM at this moment
 
-### :gift: Features
+## :gift: Features
 
 - [x] New Default Cursor
 - [x] Transparent buildings, ceilings
@@ -27,7 +27,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 - [ ] ~~Recolor barrels in red~~
 - [ ] ~~Make bushes and trees transparent~~
 
-### :information_source: Using hack instruction
+## :information_source: Using hack instruction
 
 - No menu / You can not change settings
 - Zoom radius regulation by Left shift + Mouse wheel
@@ -35,7 +35,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 - The auto aim will aim for closest enemy
 
 
-### :video_camera: Video Demos
+## :video_camera: Video Demos
 Fan Video #1 - https://www.youtube.com/watch?v=5IYZ6akAWhM
 
 
@@ -70,7 +70,7 @@ Surviv.io has an anti-cheat system that sometimes makes the game freeze (stop), 
 https://github.com/IceHacks/SurvivCheatInjector
 
 
-### :ice_cream: Clean Code file
+## :ice_cream: Clean Code file
 You can get the clean code - check "app.50d15b72_clean_code.js" file and you can use this file to:
 * Modify hack settings
 * Add additional features
@@ -78,14 +78,16 @@ You can get the clean code - check "app.50d15b72_clean_code.js" file and you can
 
 (Only if you know js programming language)
 
-# Other Hack: 
+## History:
+Hack was freezing because of surviv.io DEVS with their inti-cheat system
+I abandoned and not I try to revive the hack.
+
+## Other Hack: 
 Guys go check other hack: https://github.com/IceHacks/SurvivCheatInjector
 
-
 ## :warning: Warning!
-All actions you take at your own risk. The author is not responsible for the consequences of your actions.
-
-Hippity hoppity it's your own responsibility!
+### All actions you take at your own risk. The author is not responsible for the consequences of your actions.
+### Hippity hoppity it's your own responsibility!
 
 
 
