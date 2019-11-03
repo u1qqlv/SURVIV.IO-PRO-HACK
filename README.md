@@ -1,16 +1,11 @@
 ![alt text](https://raw.githack.com/u1qqlv/SURVIV.IO-PRO-HACK/master/surviv-pro-reloaded.png "Survivio Banner")
 
-# UPDATE: 
-
-Guys go check other hack: https://github.com/IceHacks/SurvivCheatInjector
-
-Now I have no time to update my hack, even if I will update it may freeze, so sorry fot that...
-
-
-# Welcome to SURVIV.IO PRO HACK! (discontinued)
+# Welcome to SURVIV.IO PRO RELOADED HACK!
 Are you looking for surviv.io hacks? I can help you!
 
 This is a custom Surviv.io cheat made from scratch to improve your game score.
+
+
 
 
 ### :video_camera: Video Demos
@@ -82,6 +77,12 @@ You can get the clean code - check "app.50d15b72_clean_code.js" file and you can
 * Fix bugs and do code improvement or optimisation
 
 (Only if you know js programming language)
+
+# Other Hack: 
+
+Guys go check other hack: https://github.com/IceHacks/SurvivCheatInjector
+
+Now I have no time to update my hack, even if I will update it may freeze, so sorry fot that...
 
 ## :warning: Warning!
 All actions you take at your own risk. The author is not responsible for the consequences of your actions.
