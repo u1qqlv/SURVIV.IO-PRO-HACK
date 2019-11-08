@@ -11,7 +11,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 
 ## :gift: Features
 
-- [x] New Default Cursor
+- [x] [New Default Cursor](https://github.com/u1qqlv/SURVIV.IO-PRO-HACK/blob/master/devs/custom-cursor.md)
 - [x] Transparent buildings, ceilings
 - [x] Custom zooming control with scroll wheel
 - [x] Displays enemy lines
