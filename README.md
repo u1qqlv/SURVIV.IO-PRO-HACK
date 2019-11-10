@@ -1,4 +1,4 @@
-![alt text](https://cdn.jsdelivr.net/gh/u1qqlv/SURVIV.IO-PRO-HACK/surviv-pro-reloaded.png "Survivio Banner")
+![alt text](https://cdn.jsdelivr.net/gh/u1qqlv/SURVIV.IO-PRO-HACK/screenshot.png "Survivio Banner")
 
 # Welcome to SURVIV.IO PRO RELOADED HACK!
 Are you looking for surviv.io hacks? I can help you!
