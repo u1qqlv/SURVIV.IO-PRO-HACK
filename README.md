@@ -15,6 +15,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 - [x] [Transparent buildings, ceilings](https://github.com/u1qqlv/SURVIV.IO-PRO-HACK/blob/master/devs/transparent-buildings.md)
 - [x] Custom zooming control with scroll wheel
 - [x] Display Enemy lines
+- [x] Display Equipment lines
 - [x] More detailed and bigger minimap
 - [ ] ~~Aimbot~~
 - [ ] ~~Aimbot with collision detection~~
