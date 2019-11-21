@@ -14,8 +14,8 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 - [x] [New Default Cursor](https://github.com/u1qqlv/SURVIV.IO-PRO-HACK/blob/master/devs/custom-cursor.md)
 - [x] [Transparent buildings, ceilings](https://github.com/u1qqlv/SURVIV.IO-PRO-HACK/blob/master/devs/transparent-buildings.md)
 - [x] Custom zooming control with scroll wheel
-- [x] Displays enemy lines
-- [x] More detailed minimap
+- [x] Display Enemy lines
+- [x] More detailed and bigger minimap
 - [ ] ~~Aimbot~~
 - [ ] ~~Aimbot with collision detection~~
 - [ ] ~~Continuous Fire (hold click button)~~
