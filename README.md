@@ -17,6 +17,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 - [x] Display Enemy lines
 - [x] Display Required Equipment lines
 - [x] More detailed and bigger minimap
+- [x] Make smoke smaller
 - [ ] ~~Aimbot~~
 - [ ] ~~Aimbot with collision detection~~
 - [ ] ~~Continuous Fire (hold click button)~~
