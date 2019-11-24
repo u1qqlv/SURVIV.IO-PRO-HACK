@@ -19,13 +19,13 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 - [x] More detailed and bigger minimap
 - [x] Make smoke smaller
 - [x] Aimbot with collision detection
+- [x] More vibrant bullets (more colored)
+- [x] Make frags and mirvs bigger and recolor in red
 - [ ] ~~Continuous Fire (hold click button)~~
-- [ ] ~~Bigger and more vibrant bullets~~
 - [ ] ~~Show enemy name~~
 - [ ] ~~Show enemy LVL (LVL means "Level" - from 0 to 7 (Armor Level + Helmet Level)) + GUN TYPE~~
 - [ ] ~~Increase size of specific loot items: guns, scopes and equipment~~
 - [ ] ~~Recolor hidden crates in green: barrel crate, stone crate and tree crate~~
-- [ ] ~~Make frags and mirvs bigger and recolor in red~~
 - [ ] ~~Keep kill feed forever~~
 - [ ] ~~Recolor barrels in red~~
 - [ ] ~~Make bushes and trees transparent~~
