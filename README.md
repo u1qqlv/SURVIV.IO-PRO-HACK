@@ -6,6 +6,7 @@ Are you looking for surviv.io hacks? I can help you!
 This is a custom Surviv.io cheat made from scratch to improve your game score.
 
 ## Note: Hack in development!
+## Note: Auto AIM will ignore mouse position, it will shoot to the nearest enemy!
 ## Note: Devs needed! If you want to help you can... I can add you as a dev here so you can contribute...
 ## Note: This is not a Chrome Extension - read installation instruction!
 
