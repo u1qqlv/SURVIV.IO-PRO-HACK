@@ -6,7 +6,7 @@ Are you looking for surviv.io hacks? I can help you!
 This is a custom Surviv.io cheat made from scratch to improve your game score.
 
 ## Note: Hack in development!
-## Note: No auto AIM at this moment!
+## Note: Devs needed! If you want to help you can... I can add you as a dev here so you can contribute...
 ## Note: This is not a Chrome Extension - read installation instruction!
 
 ## :gift: Features
@@ -18,8 +18,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 - [x] Display Required Equipment lines
 - [x] More detailed and bigger minimap
 - [x] Make smoke smaller
-- [ ] ~~Aimbot~~
-- [ ] ~~Aimbot with collision detection~~
+- [x] Aimbot with collision detection
 - [ ] ~~Continuous Fire (hold click button)~~
 - [ ] ~~Bigger and more vibrant bullets~~
 - [ ] ~~Show enemy name~~
