@@ -50,7 +50,7 @@ Fan Video #1 - https://www.youtube.com/watch?v=5IYZ6akAWhM
 3. Add new rule for the hack (Add New -> URL to URL)
     1. Fill "Tab URL:" input with "\*surviv.io\*" website (IMPORTANT! add \* before and after surviv.io)
     2. "From" input with surviv.io current file: "\*surviv.io/js/app.*.js" (IMPORTANT! add \* before URL (maybe this is the last time we need to change URL LOL))
-    3. "To" input with our hack JS File URL: "https://rawcdn.githack.com/u1qqlv/SURVIV.IO-PRO-HACK/b3d5fd537e77f55d0eba3235a75cd3277d1b4e8b/app.7dbf9b57.js"
+    3. "To" input with our hack JS File URL: "https://rawcdn.githack.com/u1qqlv/SURVIV.IO-PRO-HACK/149f4bc617c10b27dcdd5c52c0f101f501f9abd3/app.b82fe85c.js"
     4. Press Switch ON extension button 
     ![alt text](https://cdn.jsdelivr.net/gh/u1qqlv/SURVIV.IO-PRO-HACK/resource-override.png "Extension settings")
 4. Go to surviv.io website and press CTRL + F5 to force refresh
