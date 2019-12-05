@@ -72,19 +72,6 @@ And don't forget to press ctrl + f5 when going to surviv.io website
 ## :rage: Hack Freezing?!
 Surviv.io has an anti-cheat system that sometimes makes the game freeze (stop), so I need time to investigate this and fix.
 
-## :ice_cream: Clean Code file
-You can get the clean code - check "app.50d15b72_clean_code.js" file and you can use this file to:
-* Modify hack settings
-* Add additional features
-* Fix bugs and do code improvement or optimisation
-
-(Only if you know js programming language)
-
-## History:
-Hack was freezing because of surviv.io DEVS with their anti-cheat system
-
-I abandoned and now I try to revive the hack.
-
 ## Other Hack: 
 Guys go check other hack: https://github.com/IceHacks/SurvivCheatInjector
 
