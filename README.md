@@ -7,7 +7,6 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 
 ## Note: Hack in development! No bumpfire/continous fire at the moment
 ## Note: Auto AIM will ignore mouse position, it will shoot to the nearest enemy!
-## Note: I can sell my hack to Kongregate for $5k (clean code) XD
 ## Note: This is not a Chrome Extension - read installation instruction!
 
 ## :gift: Features
