@@ -11,8 +11,9 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 
 ## :gift: Features
 
-- [x] [New Default Cursor](https://github.com/u1qqlv/SURVIV.IO-PRO-HACK/blob/master/devs/custom-cursor.md)
-- [x] [Transparent buildings, ceilings](https://github.com/u1qqlv/SURVIV.IO-PRO-HACK/blob/master/devs/transparent-buildings.md)
+- [x] New Default Cursor
+- [x] Continuous Fire (hold click button)
+- [x] Transparent buildings, ceilings
 - [x] Custom zooming control with scroll wheel
 - [x] Display Enemy lines
 - [x] Display Required Equipment lines
@@ -21,7 +22,6 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 - [x] Aimbot with collision detection
 - [x] More vibrant bullets (more colored)
 - [x] Make frags and mirvs bigger and recolor in red
-- [ ] ~~Continuous Fire (hold click button)~~
 - [ ] ~~Show enemy name~~
 - [ ] ~~Show enemy LVL (LVL means "Level" - from 0 to 7 (Armor Level + Helmet Level)) + GUN TYPE~~
 - [ ] ~~Increase size of specific loot items: guns, scopes and equipment~~
