@@ -35,6 +35,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 - Zoom radius regulation by Left shift + Mouse wheel
 - Emotes are available right click
 - The auto aim will aim for closest enemy
+- Just hold click mouse button for bumpfire
 
 
 ## :video_camera: Video Demos
