@@ -62,7 +62,8 @@ Need a video instruction? Here you go!
 https://www.youtube.com/watch?v=VqnDO610Jsc
 
 ## :angry: Hack not working?!
-Be sure the links to be the same as above! (look carefully if the links are the same!)
+Make an issue (if it is not already), notyify me, but before that,
+be sure the links to be the same as above! (look carefully if the links are the same!)
 
 The cheat is updating regularly so you need to change values too...
 
