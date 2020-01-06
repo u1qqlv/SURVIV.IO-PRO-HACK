@@ -21,7 +21,7 @@ This is a custom Surviv.io cheat made from scratch to improve your game score.
 - [x] Aimbot with collision detection
 - [x] More vibrant bullets (more colored)
 - [x] Make frags and mirvs bigger and recolor in red
-- [ ] ~~Show enemy name~~
+- [X] Show enemy name
 - [ ] ~~Show enemy LVL (LVL means "Level" - from 0 to 7 (Armor Level + Helmet Level)) + GUN TYPE~~
 - [ ] ~~Increase size of specific loot items: guns, scopes and equipment~~
 - [ ] ~~Recolor hidden crates in green: barrel crate, stone crate and tree crate~~
