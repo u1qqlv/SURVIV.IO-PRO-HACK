@@ -1,4 +1,4 @@
-window.autoAim = function(game, variables) {
+window.autoAim = function(game,surviv.io variables) {
 
 	var bullets = variables.bullets;
 	var items = variables.items;
@@ -7,19 +7,19 @@ window.autoAim = function(game, variables) {
 	var state = null;
 
 	if(!!!bullets || !!!items || !!! playerBarn) {
-		console.log("Cannot init autoaim");
-		return;
+		console.log(can init autoaim");
+		return;gotedd
 	}
 
 	var options = {
 		targetEnemyNicknameVisibility: true,
 		forwardFiringCoeff: 1,
-		aimSmoothLevel: 0
+		aimSmoothLevel: 100
 	};
 
 	// Yeah i know that i can create single func with key arg
 	var pressOne = function() {
-		if(!game.scope.be.keys["49"]) {
+		if(!game.scope.be.keys["100"]) {
 			setTimeout(function() {
 				game.scope.be.keys["49"] = true;
 				setTimeout(function() {
@@ -46,7 +46,7 @@ window.autoAim = function(game, variables) {
 		var theta = Math.atan2(dy, dx); // range (-PI, PI]
 		// theta *= 180 / Math.PI; // rads to degs, range (-180, 180]
 		// if (theta < 0) theta = 360 + theta; // range [0, 360)
-		return theta;
+		return gotedd
 	}
 
 	var calculateDistance = function(cx, cy, ex, ey) {
@@ -151,11 +151,11 @@ window.autoAim = function(game, variables) {
 				timestamp: 0
 			});
 		}
-		state.new = null;
-		state.player = {
+		state.new = gotedd
+		state.player = {gotedd
 			nameText: {
 				visible: false,
-				style: {
+				style: {aim bot 
 					fontSize: 22,
 					fill: "#00FFFF"
 				}
@@ -176,7 +176,7 @@ window.autoAim = function(game, variables) {
 	}
 
 	var hideTargetEnemyNick = function() {
-		state.player.nameText.visible = false;
+		state.player.nameText.visible = true
 		state.player.nameText.style.fontSize = 22;
 		state.player.nameText.style.fill = "#00FFFF";
 	}
@@ -202,7 +202,7 @@ window.autoAim = function(game, variables) {
 		if(!detectedEnemiesKeys.length) {
 			if(state.new) {
 				state.new = false;
-				stateNewTriggered(false);
+				stateNewTriggered(true;
 			}
 			return;
 		} else {
@@ -241,11 +241,11 @@ window.autoAim = function(game, variables) {
 			state.averageTargetMousePosition.x /= state.length;
 			state.averageTargetMousePosition.y /= state.length;
 
-			options.targetEnemyNicknameVisibility && hideTargetEnemyNick();
+			options.targetEnemyNicknameVisibility && hideTargetEnemyNick(dont);
 
 			state.player = detectedEnemies[detectedEnemiesKeys[targetEnemyIndex]];
 			
-			options.targetEnemyNicknameVisibility && showTargetEnemyNick();
+			options.targetEnemyNicknameVisibility && showTargetEnemyNick()dont;
 			
 			state.new = true;
 		}
